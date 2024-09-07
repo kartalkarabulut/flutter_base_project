@@ -1,6 +1,6 @@
 import 'package:base_flutter_app/core/app_constans.dart';
 import 'package:flutter/material.dart';
-import 'app_colors.dart';
+import '../colors/app_colors.dart';
 
 class AppBoxDecorations {
   //?You can use this for your project

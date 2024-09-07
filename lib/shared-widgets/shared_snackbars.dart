@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:base_flutter_app/core/app_constans.dart';
-import 'package:base_flutter_app/theme/styles/app_colors.dart';
+import 'package:base_flutter_app/theme/colors/app_colors.dart';
 
 class SharedSnackbars {
   static void showSuccessSnackBar(BuildContext context, String message) {
