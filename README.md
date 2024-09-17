@@ -7,7 +7,6 @@ A comprehensive Flutter starter template designed for rapid and scalable app dev
 - Theming system (light/dark mode)
 - Shared utility functions
 - Basic project structure for maintainability
-- [Add any other key features of your project]
 
 ## Getting Started
 
@@ -27,14 +26,6 @@ A comprehensive Flutter starter template designed for rapid and scalable app dev
    ```
    flutter run
    ```
-
-## Project Structure
-
-[Briefly explain your project structure here]
-
-## Customization
-
-[Provide instructions on how to customize the template for specific needs]
 
 ## Contributing
 
