@@ -1,0 +1,2 @@
+You can create your own views here. You can think of the Views file like a features file. 
+For example, on a settings page, there can be different pages such as language settings and application settings. Since these pages are related and interactive with each other, we included them in the SettingsView. You can create your own logic in this way as well.

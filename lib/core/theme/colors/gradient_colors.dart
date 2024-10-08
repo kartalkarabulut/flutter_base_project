@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:base_flutter_app/theme/colors/app_colors.dart';
+import 'package:base_flutter_app/core/theme/colors/app_colors.dart';
 
 class AppGradientColors {
   //Todo: Modify with your own colors and settings
