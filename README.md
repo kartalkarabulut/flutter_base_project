@@ -12,7 +12,7 @@ A comprehensive Flutter starter template designed for rapid and scalable app dev
 
 1. Clone the repository
    ```
-   git clone https://github.com/your-username/flutter_base_project.git
+   git clone https://github.com/kartalkarabulut/flutter_base_project.git
    ```
 2. Navigate to the project directory
    ```
