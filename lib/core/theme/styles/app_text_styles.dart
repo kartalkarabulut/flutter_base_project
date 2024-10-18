@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:base_flutter_app/core/app_constans.dart';
+import 'package:base_flutter_app/Core/constants/app_constans.dart';
 import 'package:google_fonts/google_fonts.dart';
 import '../colors/app_colors.dart';
 
