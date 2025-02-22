@@ -13,27 +13,47 @@ class AppConstants {
   }
 
   //?Padding values
-  static const double verticalPadding = 20;
-  static const double horizontalPadding = 20;
-  static const double smallPadding = 10;
-  static const double mediumPadding = 15;
-  static const double largePadding = 20;
+  /*
+      Give your own values
+
+  */
+  // static const double verticalPadding = 20;
+  // static const double horizontalPadding = 20;
+  // static const double smallPadding = 10;
+  // static const double mediumPadding = 15;
+  // static const double largePadding = 20;
 
   //?Border radius values
-  static const double smallBorderRadius = 5;
-  static const double mediumBorderRadius = 10;
-  static const double largeBorderRadius = 15;
+  /*
+      Give your own values
+
+  */
+  // static const double smallBorderRadius = 5;
+  // static const double mediumBorderRadius = 10;
+  // static const double largeBorderRadius = 15;
 
   //?Border width values
-  static const double borderWidth = 1;
+  /*
+      Give your own values
+
+  */
+  // static const double borderWidth = 1;
 
   //?Icon size values
-  static const double iconSize = 20;
+  /*
+      Give your own values
+
+  */
+  // static const double iconSize = 20;
 
   //?Font size values
-  static const double smallFontSize = 12;
-  static const double mediumFontSize = 16;
-  static const double largeFontSize = 20;
+  /*
+      Give your own values
+
+  */
+  // static const double smallFontSize = 12;
+  // static const double mediumFontSize = 16;
+  // static const double largeFontSize = 20;
 
   /*
   Other Responsive  values

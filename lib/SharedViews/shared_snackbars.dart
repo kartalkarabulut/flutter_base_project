@@ -13,7 +13,7 @@ class SharedSnackbars {
           ],
         ),
         backgroundColor: Colors.green,
-        duration: Duration(seconds: 3),
+        duration: const Duration(seconds: 3),
         behavior: SnackBarBehavior.floating,
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(AppConstants.mediumBorderRadius),
